@@ -43,6 +43,6 @@ Soy un estudiante de el CFGM de **Sistemas Microinformáticos** que está cursan
 
 ### 📫 Conecta conmigo
 
-- LinkedIn:[LinkedIn](https://www.linkedin.com/in/david-garc%C3%ADa-pacheco-1150b939b/)
-- Correo:[E-mail](garciapachecodavid@fpllefia.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-garc%C3%ADa-pacheco-1150b939b/)
+- Correo: [E-mail](garciapachecodavid@fpllefia.com)
 
