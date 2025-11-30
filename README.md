@@ -1,4 +1,4 @@
-# ¡Hola! Soy [David] 👋
+# ¡Hola! Soy David 👋
 
 Soy un estudiante de el CFGM de **Sistemas Microinformáticos** que está cursando actualmente el segundo año. Me apasiona la tecnología y el desarrollo web, y actualmente estoy perfeccionando mis habilidades en **HTML** y **CSS**. Me gusta aprender nuevas herramientas y trabajar en proyectos que me ayuden a crecer como profesional. En un futuro me veo adentrandome en el mundo laboral como un programador júnior, ya que es lo que más me entusiasma de la informática.
 
